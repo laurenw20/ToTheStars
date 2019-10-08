@@ -2,6 +2,7 @@
 <h3>            And         </h3> 
 <h1> TheDreamsThatAreAnswered </h1>
 
+<h3>This is a short list of the Inner Circle</h3>
 <h4> <ul>
 <li>Rhys & Feyre</li>
 <ul>
@@ -29,3 +30,21 @@
 </ul>
 </li>
 </ul> </h4>
+
+<h2> This site will inclue some short exerpts, moments we will remember forever, and hilarious interactions</h2>
+
+<h3>Moments</h3>
+<h4>
+<ul>
+<li> "Hello Feyre darling,"</li>
+<ul> 
+<li>RHYS ARRIVES TO SAVE THE DAY</li>
+</ul>
+<li>"Feyre." "Are you running low on food here?"</li>
+<ul>he notices that she's extremely skinny. then calls Tamlin out on his bad boyfriending</ul>
+<li>"I killed them."</li>
+<ul>
+<li> Feyre's sparring with Cass, and starts reliving Under the Mountain, and it's so sad becasue she carries the guilt of their deaths forever.</li>
+</ul>
+</ul>	
+</h4>
