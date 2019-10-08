@@ -35,7 +35,7 @@
 </li>
 </ul> </h4>
 <h2>Here they are!</h2>
-
+![Image](a.jpg)
 <h2> This site will inclue some short exerpts, moments we will remember forever, and hilarious interactions</h2>
 
 <h3><strong>Moments</strong></h3>
@@ -57,4 +57,3 @@
 
 
 
-![Image](a.jpg)
