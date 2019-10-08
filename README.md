@@ -5,7 +5,8 @@
 <h2> This site will inclue some short exerpts, moments we will remember forever, and hilarious interactions</h2>
 
 
-<h3>This is a short list of the Inner Circle</h3>
+<h3>This is a short list of the Inner Circle, and their titles</h3>
+<h5>The second people in the list are their lovers.</h5>
 <h4> <ul>
 <li>Rhys & Feyre</li>
 <ul>
@@ -33,7 +34,8 @@
 </ul>
 </li>
 </ul> </h4>
-
+<h2>Here they are!</h2>
+![Inner Circle] (https://www.deviantart.com/norm27/art/ACOTAR-The-Inner-Circle-683679819)
 <h2> This site will inclue some short exerpts, moments we will remember forever, and hilarious interactions</h2>
 
 <h3><strong>Moments</strong></h3>
