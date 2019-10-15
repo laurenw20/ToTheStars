@@ -1,12 +1,13 @@
 <h1>   ToTheStarsWhoListen </h1>
 <h3>            And         </h3> 
 <h1> TheDreamsThatAreAnswered </h1>
-
+<hr>
 <h2> This site will inclue some short exerpts, moments we will remember forever, and hilarious interactions</h2>
 
 
 <h3>This is a short list of the Inner Circle, and their titles</h3>
 <h5>The second people in the list are their lovers.</h5>
+<hr>
 <h4> <ul>
 <li>Rhys & Feyre</li>
 <ul>
@@ -38,6 +39,7 @@
 
 ![Image](a.jpg)
 
+<hr>
 
 <h3><strong>Moments</strong></h3>
 <h4>
@@ -53,6 +55,6 @@
 </ul>
 <h3> These moments either broke my heart, or made it whole again.</h3>	
 </h4>
-
+<hr>
 
 
